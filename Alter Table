@@ -1,2 +1,2 @@
 ALTER TABLE Employee
-DROP Salary;
+DROP Birthdate;
