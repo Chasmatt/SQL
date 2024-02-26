@@ -1,5 +1,5 @@
 CREATE TABLE Employee (
-   ID        INT,
+   ID        INT AUTO_INCREMENT,
    Name      VARCHAR(60),
    BirthDate DATE,
    Salary    DECIMAL(7,2)
